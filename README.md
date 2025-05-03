@@ -2,7 +2,7 @@
 
 A responsive landing page template built with modern web development tools and practices. This project provides a solid starting point for creating beautiful, responsive landing pages.
 
-![Landing Page Screenshot](https://i.imgur.com/placeholder.jpg)
+![Landing Page Screenshot](https://i.imgur.com/fOmtqZd.png)
 
 ## Live Preview
 
